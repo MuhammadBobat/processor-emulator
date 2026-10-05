@@ -1,0 +1,6 @@
+build/
+*.o
+demo_*.txt
+.vscode/
+.idea/
+.DS_Store
